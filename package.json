@@ -1,0 +1,15 @@
+{
+  "name": "replit-agent-playwright",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "playwright": "^1.42.1"
+  }
+}
